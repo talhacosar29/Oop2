@@ -11,7 +11,7 @@ namespace Oop2
 
             musteri1.Id = 1;
             musteri1.CustomerNumber = "12345";
-            musteri1.TcNo = "44197204988";
+            musteri1.TcNo = "";
             musteri1.FirstName = "Talha";
             musteri1.LastName = "Coşar";
 
